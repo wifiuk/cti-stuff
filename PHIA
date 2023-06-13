@@ -3,14 +3,16 @@ Accurately communicating probability is an important element of good-quality int
 This scale demonstrates broad ranges of certainty or uncertainty that can be translated into consistent language. This language is then used in intelligence products in the context of any assessment, accompanied by the scale as an appendix to support interpretation.
 
 PHIA probability yardstick table
-Probability range	Judgement terms	Fraction range
-≤ ≈ 5%	Remote chance	≤ ≈ 1/20
-≈ 10% to ≈ 20%	Highly unlikely	≈ 1/10 to ≈ 1/5
-≈ 25% to ≈ 35%	Unlikely	≈ 1/4 to ≈ 1/3
-≈ 40% to <50%	Realistic possibility	≈ 4/10 to < 1/2
-≈ 55% to ≈ 75%	Likely or probably	≈ 4/7 to ≈ 3/4
-≈ 80% to ≈ 90%	Highly likely	≈ 4/5 to ≈ 9/10
-≥ ≈ 95%	Almost certain	≥ ≈ 19/20
+| Probability range | Judgement terms |
+| ----------------- | --------------- |
+| ≤ ≈ 5%            | Remote chance   |
+| ≈ 10% to ≈ 20%    | Highly unlikely |
+| ≈ 25% to ≈ 35%    | Unlikely        |
+| ≈ 40% to <50%     | Realistic possibility |
+| ≈ 55% to ≈ 75%    | Likely or probably    |
+| ≈ 80% to ≈ 90%    | Highly likely         |
+| ≥ ≈ 95%           | Almost certain        |
+
 
 Key
 ≈ approximately equal to
